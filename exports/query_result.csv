@@ -1,0 +1,27 @@
+student_id,first_name,last_name,email,phone,date_of_birth,enrollment_date,major,gpa,credits_completed,address,city,state,zip_code
+1,Michael,Williams,michael.williams@gmail.com,647-589-6721,2000-03-29,2022-09-14,Business Administration,2.84,45,1447 Elm St,San Diego,FL,42217
+2,Jane,Lee,jane.lee@gmail.com,124-602-5031,2004-03-20,2024-04-07,Communications,3.62,91,1587 Maple Dr,San Diego,VA,92652
+3,Christopher,Moore,christopher.moore@university.edu,627-205-3498,1998-05-24,2023-03-30,Computer Science,3.50,110,3637 Maple Dr,Denver,NV,40912
+4,William,Ramirez,william.ramirez@outlook.com,119-277-5491,2004-02-24,2020-09-24,Finance,3.42,53,8416 Oak Ave,San Diego,MA,15762
+5,Rachel,Harris,rachel.harris@hotmail.com,445-370-2213,2000-08-14,2024-06-23,Communications,2.38,10,4992 Main St,Austin,MD,15448
+6,Brandon,Jones,brandon.jones@yahoo.com,375-563-3202,1998-02-01,2024-05-09,Economics,2.68,80,9066 Main St,Denver,NJ,31868
+7,Melissa,Miller,melissa.miller@university.edu,404-269-2700,2003-02-04,2020-07-06,Education,3.94,51,8936 Elm St,Washington,WI,44559
+8,John,Lopez,john.lopez@university.edu,644-539-8857,2004-10-09,2023-06-10,Art,3.67,67,2309 Main St,San Jose,NJ,64348
+9,Daniel,Anderson,daniel.anderson@yahoo.com,810-485-3757,1997-02-12,2022-08-09,Chemistry,2.04,84,8767 Maple Dr,San Francisco,CA,25424
+10,Jennifer,Lewis,jennifer.lewis@gmail.com,227-524-9051,2004-05-16,2023-11-22,Finance,3.95,97,1326 Pine Rd,Jacksonville,MN,37780
+11,Rachel,Lopez,rachel.lopez@hotmail.com,183-242-3869,2000-11-07,2024-01-22,Art,2.04,93,9543 Oak Ave,Seattle,OH,69635
+12,Sarah,Lopez,sarah.lopez@hotmail.com,399-112-6736,1996-09-24,2024-03-21,Accounting,2.85,86,936 Elm St,Seattle,CO,66279
+13,Tyler,White,tyler.white@outlook.com,211-919-3191,2004-11-22,2024-03-21,Chemistry,2.03,88,2752 Main St,Los Angeles,TN,78024
+14,Jennifer,Rodriguez,jennifer.rodriguez@university.edu,851-531-5702,1997-03-10,2024-02-22,History,4.00,105,1252 Elm St,San Antonio,TX,63526
+15,Brandon,Wilson,brandon.wilson@university.edu,577-999-9798,2003-12-13,2021-02-12,Psychology,2.85,62,3744 Maple Dr,Philadelphia,MN,60320
+16,Emily,Lewis,emily.lewis@gmail.com,444-373-2334,1996-09-23,2022-03-05,Nursing,3.20,32,6434 Main St,Houston,OH,72899
+17,Christopher,Ramirez,christopher.ramirez@yahoo.com,139-881-5317,1999-12-28,2024-04-06,Biology,2.79,13,3219 Oak Ave,San Antonio,TN,68079
+18,Brandon,Martin,brandon.martin@university.edu,288-818-3265,2001-11-17,2021-06-21,English Literature,3.88,93,3031 Main St,Charlotte,NJ,26533
+19,Heather,Harris,heather.harris@yahoo.com,238-412-7267,2005-07-31,2024-11-13,Physics,2.89,100,1457 Main St,Fort Worth,MI,45305
+20,Ashley,Davis,ashley.davis@outlook.com,301-356-9808,1999-03-09,2021-04-01,Engineering,3.80,72,652 Main St,Indianapolis,WI,99344
+21,David,Brown,david.brown@outlook.com,311-551-8226,2002-10-09,2023-04-04,Art,2.77,30,9053 Main St,Jacksonville,MD,46038
+22,Rachel,Martinez,rachel.martinez@outlook.com,802-838-2964,1995-03-21,2020-02-08,Finance,3.81,102,5997 Elm St,Columbus,MA,82530
+23,Andrew,Perez,andrew.perez@university.edu,571-814-6935,1996-01-21,2023-06-19,Biology,3.74,77,7168 Pine Rd,San Jose,CO,43591
+24,Tyler,Gonzalez,tyler.gonzalez@outlook.com,642-358-3185,2000-08-16,2020-03-12,Computer Science,3.80,49,267 Main St,Houston,TX,28285
+25,Melissa,Garcia,melissa.garcia@yahoo.com,436-228-5967,2003-09-18,2024-11-22,Psychology,3.70,95,7589 Oak Ave,Houston,OH,78410
+1000,as,kun,asga2gamil.com,34536738,2004-09-06,2034-09-20,students,7.90,4,delhti,delhi,delhi,12345
